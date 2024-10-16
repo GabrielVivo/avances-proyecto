@@ -1,0 +1,106 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 44%, rgba(225,159,28,1) 82%);
+}
+nav{
+background-color: #e19f1c ;
+background: linear-gradient(90deg, rgba(2,0,36,1) 44%, rgba(225,159,28,1) 82%);
+
+}
+.titulo1 {
+
+color: #ffffff;
+}
+
+.img{
+    width: 100%;
+}
+.logo{
+    width: 30%;
+}
+footer{
+    background-color: black;
+}
+.paleta{
+    padding: 10px 10px;
+    
+    border: white;
+}
+.color1{
+    background-color: #e19f1c;
+    height: 150px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: white solid 1px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 1rem;
+}
+.color2{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: white solid 1px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 1rem;
+}
+.color3{
+    background-color: #020024;
+    height: 150px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: white solid 1px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 1rem; 
+}
+.color4{
+    background-color: #ffffff;
+    height: 150px;
+    width: 150px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:20px ;
+    font-size: 25px;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 1rem; 
+}
+.parrafo{
+    border-radius:   20px;
+    padding: 4%;
+    background-color: rgba(0, 0, 0, 0.329);
+}
+.parrafo:hover{
+    box-shadow: 10px 10px 5px 0px rgba(255, 255, 255, 0.425);
+}
+
+
+.margenAlto{
+
+margin-top: 300px;
+}
+
+.prueba{
+background-color: #e19f1c;
+background: linear-gradient(90deg, rgba(2,0,36,1) 44%, rgba(225,159,28,1) 82%);
+}
